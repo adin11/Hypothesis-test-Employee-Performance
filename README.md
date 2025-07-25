@@ -1,10 +1,10 @@
-# 🎓 Hypothesis Testing on Student Performance Based on Training Attendance
+# Hypothesis Testing on Employee Performance Based on Training Attendance
 
-This project performs hypothesis testing to determine whether attending a training session improves students' performance scores. We apply statistical techniques (specifically Welch’s t-test) to check if the difference between the two groups is statistically significant.
+This project performs hypothesis testing to determine whether attending a training session improves the performance scores of employee's. We apply statistical techniques (specifically Welch’s t-test) to check if the difference between the two groups is statistically significant.
 
 ---
 
-## 📘 What is Hypothesis Testing?
+## What is Hypothesis Testing?
 
 Hypothesis Testing is a statistical method used to make inferences about a population from sample data. It helps decide whether to:
 
@@ -17,18 +17,18 @@ This is widely used in data science, business analytics, A/B testing, and educat
 
 ## 🎯 Project Objective: Evaluate Impact of Training
 
-We compare the performance of two groups of students:
+We compare the performance of two groups of Employee's:
 
-- **Group A**: Students who **attended** the training
-- **Group B**: Students who **did not attend** the training
+- **Group A**: Employee's who **attended** the training
+- **Group B**: Employee's who **did not attend** the training
 
-The goal is to determine if **training attendance improves student performance scores**.
+The goal is to determine if **training attendance improves employee's performance scores**.
 
 ---
 
 ## 🗃️ Dataset Overview
 
-- **Total Records**: 1,000+ students
+- **Total Records**: 1,000+ Employee's
 - **No missing values**
 - **Columns Used**:
   - `TrainingAttended` (Yes/No)
@@ -69,7 +69,7 @@ _Actual means depend on the dataset used. Replace with real values if needed._
 
 ## ✅ Conclusion
 
-Attending the training session **has a statistically significant positive impact** on student performance. Students who attended training scored higher on average, and the difference is unlikely due to random chance.
+Attending the training session **has a statistically significant positive impact** on Employee's performance. Employee's who attended training scored higher on average, and the difference is unlikely due to random chance.
 
 ---
 
