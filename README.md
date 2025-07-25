@@ -1,6 +1,6 @@
 # Hypothesis Testing on Employee Performance Based on Training Attendance
 
-This project performs hypothesis testing to determine whether attending a training session improves the performance scores of employee's. We apply statistical techniques (specifically Welch’s t-test) to check if the difference between the two groups is statistically significant.
+This project performs hypothesis testing (Welch's T-test) to determine whether attending a training session improves the performance scores of employee's. We apply statistical techniques  to check if the difference between the two groups is statistically significant.
 
 ---
 
