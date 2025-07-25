@@ -49,10 +49,9 @@ We use a **one-tailed Welch’s t-test** (assuming unequal variance).
 
 | Group             | Mean Performance Score |
 |------------------|------------------------|
-| **Training = Yes** | e.g., 74.3             |
-| **Training = No**  | e.g., 70.1             |
+| **Training = Yes** | e.g., 70.2             |
+| **Training = No**  | e.g., 64.2             |
 
-_Actual means depend on the dataset used. Replace with real values if needed._
 
 ---
 
@@ -60,8 +59,8 @@ _Actual means depend on the dataset used. Replace with real values if needed._
 
 | Metric            | Value           |
 |-------------------|-----------------|
-| **T-statistic**   | e.g., 3.25       |
-| **P-value**       | e.g., 0.0007     |
+| **T-statistic**   | e.g., 9.18       |
+| **P-value**       | e.g., 2.85     |
 
 ✅ Since **p-value < 0.05**, we **reject the null hypothesis**.
 
